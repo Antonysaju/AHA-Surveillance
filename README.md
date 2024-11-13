@@ -1,5 +1,5 @@
-![Screenshot 2024-11-07 184156](https://github.com/user-attachments/assets/b8d33324-398f-4814-b98c-fb2085a3e11f)# AHA-Surveillance
-Recognizing faces from live-camera &amp; video!
+# AHA-Surveillance
+Recognizing faces from live-camera & video!
 
 AHA Surveillance is a face detection and recognition system designed to process live camera feeds and video files in real-time. Using OpenCV and face_recognition libraries, the project detects and identifies known faces from an existing database and provides dynamic recognition in a user-friendly interface.
 
